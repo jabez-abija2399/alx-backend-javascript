@@ -71,26 +71,28 @@ files on that director
 #0-constants.js
 Const or let? 
 
-[click here](./1block-scoped.js).
+[click here](.\1block-scoped.js).
 Arrow functions 
 
-[click here](./2-arrow.js).
-
+[click here](.2-arrow.js).
+Arrow functions 
 
 
 [click here](./3-default-parameter.js).
-
+ Parameter defaults
 
 
 [click here](4-rest-parameter.js).
+ Rest parameter syntax for functions 
 
 
 
 [click here](5-spreed-oprator.js).
-
+The wonders of spread syntax
 
 
 [click here](6-string-interpolation.js).
+
 
 
 
