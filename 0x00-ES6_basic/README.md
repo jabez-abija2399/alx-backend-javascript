@@ -74,7 +74,7 @@ Const or let?
 
 [1-block-scoped.js](./1-block-scoped.js).
 
- Arrow functions
+ Block Scope
 
 [2-arrow.js](./2-arrow.js).
 
@@ -86,6 +86,7 @@ Arrow functions
 Parameter defaults 
 
 [4-rest-parameter.js](./4-rest-parameter.js).
+
 
 [5-spreed-oprator.js](./5-spreed-oprator.js).
 
