@@ -91,6 +91,8 @@ Rest parameter syntax for functions
 
 [5-spreed-oprator.js](./5-spreed-oprator.js).
 
+The wonders of spread syntax 
+
 [6-string-interpolation.js](./6-string-interpolation.js).
 
 [7-getBudgetObject.js](./7-getBudgetObject.js).
