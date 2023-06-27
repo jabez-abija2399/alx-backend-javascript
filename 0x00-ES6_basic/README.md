@@ -124,3 +124,11 @@ No need to create empty objects before adding in properties
 
 
 [12-createReportObject.js](./12-createReportObject.js 
+
+Let's create a report object 
+
+[100-createIteratorObject.js](./100-createIteratorObject.js 
+
+
+
+[101-iterateThroughObject.js](./101-iterateThroughObject.js 
