@@ -67,24 +67,24 @@ Don’t forget to run npm install from the terminal of your project folder to in
 files on that director
 
 #README.md
+[0-constants.js.js](./0-constants.js.js).
 
-#0-constants.js
 Const or let? 
 
-[1block-scoped.js](./1block-scoped.js).
+[1-block-scoped.js](./1-block-scoped.js).
 
-[click here](./2-arrow.js).
+[2-arrow.js](./2-arrow.js).
 
-[click here](./3-default-parameter.js).
+[3-default-parameter.js](./3-default-parameter.js).
 
-[click here](./4-rest-parameter.js).
+[4-rest-parameter.js](./4-rest-parameter.js).
 
-[click here](./5-spreed-oprator.js).
+[5-spreed-oprator.js](./5-spreed-oprator.js).
 
-[click here](./6-string-interpolation.js).
+[6-string-interpolation.js](./6-string-interpolation.js).
 
-[click here](./7-getBudgetObject.js).
+[7-getBudgetObject.js](./7-getBudgetObject.js).
 
-[click here](./8-getBudgetCurrentYear.js).
+[8-getBudgetCurrentYear.js](./8-getBudgetCurrentYear.js).
 
-[click here](./9-getFullBudget.js).
+[9-getFullBudget.js](./9-getFullBudget.js).
