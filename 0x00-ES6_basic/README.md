@@ -78,7 +78,12 @@ Const or let?
 
 [2-arrow.js](./2-arrow.js).
 
+Arrow functions
+
+
 [3-default-parameter.js](./3-default-parameter.js).
+
+Parameter defaults 
 
 [4-rest-parameter.js](./4-rest-parameter.js).
 
