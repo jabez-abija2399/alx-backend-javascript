@@ -111,3 +111,8 @@ No need to create empty objects before adding in properties
 [9-getFullBudget.js](./9-getFullBudget.js).
 
  ES6 method properties 
+
+
+[10-loops.js](./10-loops.js).
+
+ For...of Loops 
