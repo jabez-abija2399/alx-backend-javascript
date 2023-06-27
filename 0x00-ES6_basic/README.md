@@ -66,9 +66,12 @@ Don’t forget to run npm install from the terminal of your project folder to in
 
 files on that director
 
-#README.md
 
-[0-constants.js.js](./0-constants.js.js).
+[README.md](./README.md).
+
+README file
+
+[0-constants.js](./0-constants.js).
 
 Const or let? 
 
@@ -95,8 +98,16 @@ The wonders of spread syntax
 
 [6-string-interpolation.js](./6-string-interpolation.js).
 
+Take advantage of template literals
+
 [7-getBudgetObject.js](./7-getBudgetObject.js).
+
+Object property value shorthand syntax
 
 [8-getBudgetCurrentYear.js](./8-getBudgetCurrentYear.js).
 
+No need to create empty objects before adding in properties
+
 [9-getFullBudget.js](./9-getFullBudget.js).
+
+ ES6 method properties 
