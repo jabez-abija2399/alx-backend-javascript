@@ -116,3 +116,11 @@ No need to create empty objects before adding in properties
 [10-loops.js](./10-loops.js).
 
  For...of Loops 
+
+
+[11-createEmployeesObject.js](./11-createEmployeesObject.js).
+
+ Iterator
+
+
+[12-createReportObject.js](./12-createReportObject.js 
