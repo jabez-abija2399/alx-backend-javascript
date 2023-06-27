@@ -68,69 +68,36 @@ files on that director
 
 
 [README.md](./README.md).
-
 README file
-
 [0-constants.js](./0-constants.js).
-
 Const or let? 
-
 [1-block-scoped.js](./1-block-scoped.js).
-
  Block Scope
-
 [2-arrow.js](./2-arrow.js).
-
 Arrow functions
-
-
 [3-default-parameter.js](./3-default-parameter.js).
-
 Parameter defaults 
-
-[4-rest-parameter.js](./4-rest-parameter.js).
-
-Rest parameter syntax for functions 
-
-[5-spreed-oprator.js](./5-spreed-oprator.js).
-
-The wonders of spread syntax 
-
-[6-string-interpolation.js](./6-string-interpolation.js).
-
-Take advantage of template literals
-
-[7-getBudgetObject.js](./7-getBudgetObject.js).
-
-Object property value shorthand syntax
-
-[8-getBudgetCurrentYear.js](./8-getBudgetCurrentYear.js).
-
+[4-rest-parameter.js](./4-rest-parameter.js).r
+Rest parameter syntax for functions r
+[5-spreed-oprator.js](./5-spreed-oprator.js).r
+The wonders of spread syntax r
+[6-string-interpolation.js](./6-string-interpolation.js).r
+Take advantage of template literalsr
+[7-getBudgetObject.js](./7-getBudgetObject.js).r
+Object property value shorthand syntaxr
+[8-getBudgetCurrentYear.js](./8-getBudgetCurrentYear.js).r
 No need to create empty objects before adding in properties
 
 [9-getFullBudget.js](./9-getFullBudget.js).
 
  ES6 method properties 
-
-
 [10-loops.js](./10-loops.js).
-
  For...of Loops 
-
-
 [11-createEmployeesObject.js](./11-createEmployeesObject.js).
-
  Iterator
-
-
 [12-createReportObject.js](./12-createReportObject.js)
-
 Let's create a report object 
-
 [100-createIteratorObject.js](./100-createIteratorObject.js)
-
  Iterating through report objects 
-
 [101-iterateThroughObject.js](./101-iterateThroughObject.js) 
-
  Iterate through object
