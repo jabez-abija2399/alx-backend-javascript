@@ -87,6 +87,7 @@ Parameter defaults
 
 [4-rest-parameter.js](./4-rest-parameter.js).
 
+Rest parameter syntax for functions 
 
 [5-spreed-oprator.js](./5-spreed-oprator.js).
 
