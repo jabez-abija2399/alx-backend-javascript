@@ -67,11 +67,14 @@ Don’t forget to run npm install from the terminal of your project folder to in
 files on that director
 
 #README.md
+
 [0-constants.js.js](./0-constants.js.js).
 
 Const or let? 
 
 [1-block-scoped.js](./1-block-scoped.js).
+
+ Arrow functions
 
 [2-arrow.js](./2-arrow.js).
 
