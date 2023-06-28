@@ -12,3 +12,11 @@
 	* Default parameters
 	* Rest parameter
 	* Javascript ES6 — Iterables and Iterators
+
+## [0x01-ES6_promise](https://github.com/jabez-abija2399/alx-backend-javascript/tree/main/0x01-ES6_promise)
+### It focus on the Promise
+    * Promise
+    * JavaScript Promise: An introduction
+    * Await
+    * Async
+    * Throw / Try
