@@ -50,5 +50,8 @@
 ## 1,[1-promise.js](./1-promise.js).
     *  Don't make a promise...if you know you can't keep it   
 
-## 1,[2-then.js](./2-then.js).
-    * Catch me if you can!  
+## 2,[2-then.js](./2-then.js).
+    * Catch me if you can! 
+
+## 3,[2-then.js](./2-then.js).
+    * Catch me if you can! 
