@@ -53,5 +53,6 @@
 ## 2,[2-then.js](./2-then.js).
     * Catch me if you can! 
 
-## 3,[2-then.js](./2-then.js).
-    * Catch me if you can! 
+## 3,[3-all.js](./3-all.js).
+    * Handle multiple successful promises 
+
