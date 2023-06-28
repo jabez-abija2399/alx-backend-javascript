@@ -46,3 +46,7 @@
 
 ## 0,[0-promise.js](./0-promise.js).
     *  Keep every promise you make and only make promises you can keep  
+
+## 1,[1-promise.js](./1-promise.js).
+    *  Don't make a promise...if you know you can't keep it   
+
