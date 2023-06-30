@@ -21,4 +21,9 @@
     * Async
     * Throw / Try
 
-##[0x02-ES6_classes](https://github.com/jabez-abija2399/alx-backend-javascript/tree/main/0x02-ES6_classes)    
+##[0x02-ES6_classes](https://github.com/jabez-abija2399/alx-backend-javascript/tree/main/0x02-ES6_classes)
+### It focus on the class of ES6
+	* Classes
+	* Class inhertance
+    *  Metaprogramming
+
