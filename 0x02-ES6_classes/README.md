@@ -42,3 +42,12 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 * [7-airport.js](./7-airport.js)
 7. Airport
+
+* [8-hbtn_class.js](./8-hbtn_class.js)
+8. Primitive - Holberton Class
+
+* [9-hoisting.js](./9-hoisting.js])
+9. Hoisting
+
+* [10-car.js](./10-car.js)
+10. Vroom
