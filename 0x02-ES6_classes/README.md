@@ -36,3 +36,9 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## [5-building.js](./5-building.js)
 5. A Building
+
+## [6-sky_high.js](./6-sky_high.js)
+6. Inheritance
+
+* [7-airport.js](./7-airport.js)
+7. Airport
