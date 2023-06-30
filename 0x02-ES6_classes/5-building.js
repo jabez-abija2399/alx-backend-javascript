@@ -1,4 +1,4 @@
-	export default class Building {
+export default class Building {
   constructor(sqft) {
     this.sqft = sqft;
     if (this.constructor !== Building) {
