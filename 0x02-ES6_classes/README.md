@@ -20,3 +20,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Requirements
 * A ```README.md``` file.
+
+## Tasks
+## * [0-classroom.js](./0-classroom.js)
+0. You used to attend a place like this at some point
