@@ -22,20 +22,20 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * A ```README.md``` file.
 
 ## Tasks
-## * [0-classroom.js](./0-classroom.js)
+## [0-classroom.js](./0-classroom.js)
 0. You used to attend a place like this at some point
 
-* [1-make_classroom.js](./1-make_classroom.js) 
+## [1-make_classroom.js](./1-make_classroom.js) 
 1. Let's make some classrooms
 
-* [2-hbtn_course.js](./2-hbtn_course.js) 
+## [2-hbtn_course.js](./2-hbtn_course.js) 
 2. A Course, Getters, and Setters
 
-* [3-currency.js](./3-currency.js)
+## [3-currency.js](./3-currency.js)
 3. Methods, static methods, computed methods names..... MONEY
 
-* [4-pricing.js](./4-pricing.js) 
+## [4-pricing.js](./4-pricing.js) 
 4. Pricing
 
-* [5-building.js](./5-building.js)
+## [5-building.js](./5-building.js)
 5. A Building
