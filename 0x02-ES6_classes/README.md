@@ -1,8 +1,5 @@
 # 0x10. ES6 classes
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
-:bookmark: classes | javascript | metaprogramming | syntactical sugar
+
 
 ## Resources
 ### Read or watch:
