@@ -38,4 +38,4 @@ Requirements
 * [3-get_ids_sum.js](./3-get_ids_sum.js) 3. Reduce 
 * [4-update_frade_by_city.js](./4-update_frade_by_city.js) 4. Combine 
 * [5-typed_array.js](./5-typed_array.js) 5. Typed Arrays 
-
+* [6-set.js](./6-set.js) 6. Set data structure 
