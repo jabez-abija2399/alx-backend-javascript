@@ -27,5 +27,4 @@
 	* Class inhertance
     *  Metaprogramming
 
-* [100-evcar.js](./100-evcar.js)
-11. EVCar
+
