@@ -1,3 +1,3 @@
 export default function getListStudentIds(array) {
-  return array.reduce((total, student) => total + student.id, 0);
+  return array.reduce((accumulator, student) => accumulator + student.id, 0);
 }
