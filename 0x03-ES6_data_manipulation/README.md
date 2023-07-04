@@ -36,4 +36,6 @@ Requirements
 * [1-get_list_student_ids.js](./1-get_list_student_ids.js) 1. More mapping 
 * [2-get_student_by_loc.js](./2-get_student_by_loc.js) 2. Filter 
 * [3-get_ids_sum.js](./3-get_ids_sum.js) 3. Reduce 
+* [4-update_frade_by_city.js](./4-update_frade_by_city.js)4. Combine 
+
 
