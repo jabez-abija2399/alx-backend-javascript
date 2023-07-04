@@ -32,3 +32,5 @@ Requirements
 
 ## Tasks
 
+* [0-get_list_student.js][./0-get_list_student.js] 0. Basic list of objects 
+
