@@ -34,5 +34,5 @@ Requirements
 
 * [0-get_list_student.js](./0-get_list_student.js) 0. Basic list of objects 	
 * [1-get_list_student_ids.js](./1-get_list_student_ids.js) 1. More mapping 
-* [2-get_student_by_loc.js](./2-get_student_by_loc.js)
+* [2-get_student_by_loc.js](./2-get_student_by_loc.js) 2. Filter 
 
