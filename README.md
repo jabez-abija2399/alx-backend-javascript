@@ -21,10 +21,18 @@
     * Async
     * Throw / Try
 
-##[0x02-ES6_classes](https://github.com/jabez-abija2399/alx-backend-javascript/tree/main/0x02-ES6_classes)
+## [0x02-ES6_classes](https://github.com/jabez-abija2399/alx-backend-javascript/tree/main/0x02-ES6_classes)
 ### It focus on the class of ES6
 	* Classes
 	* Class inhertance
     *  Metaprogramming
+
+## [0x03-ES6_data_manipulation](https://github.com/jabez-abija2399/alx-backend-javascript/tree/main/0x03-ES6_data_manipulation)
+### It focus on the class of ES6
+	* Array
+    * Typed Array
+    * Set Data Structure
+    * Map Data Structure
+    * WeakMap
 
 
