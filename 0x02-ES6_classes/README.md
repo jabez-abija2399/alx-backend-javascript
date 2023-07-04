@@ -40,17 +40,17 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## [6-sky_high.js](./6-sky_high.js)
 6. Inheritance
 
-* [7-airport.js](./7-airport.js)
+## [7-airport.js](./7-airport.js)
 7. Airport
 
-* [8-hbtn_class.js](./8-hbtn_class.js)
+## [8-hbtn_class.js](./8-hbtn_class.js)
 8. Primitive - Holberton Class
 
-* [9-hoisting.js](./9-hoisting.js])
+## [9-hoisting.js](./9-hoisting.js])
 9. Hoisting
 
-* [10-car.js](./10-car.js)
+## [10-car.js](./10-car.js)
 10. Vroom
 
-* [100-evcar.js](./100-evcar.js)
+## [100-evcar.js](./100-evcar.js)
 11. 100-evcar	
