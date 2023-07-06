@@ -42,3 +42,5 @@ Requirements
 * [7-has_array_values.js](./7-has_array_values.js)
 * [8-clean_set.js](./8-clean_set.js)
 * [9-groceries_list.js](./9-groceries_list.js)
+* [10-update_uniq_item.js](./10-update_uniq_item.js)
+* [100-weak.js](./100-weak.js)
