@@ -41,3 +41,4 @@ Requirements
 * [6-set.js](./6-set.js) 6. Set data structure 
 * [7-has_array_values.js](./7-has_array_values.js)
 * [8-clean_set.js](./8-clean_set.js)
+* [9-groceries_list.js](./9-groceries_list.js)
