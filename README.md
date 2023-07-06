@@ -36,5 +36,6 @@
     * WeakMap
 
 ## [0x04-TypeScript](https://github.com/jabez-abija2399/alx-backend-javascript/tree/main/0x04-TypeScript)
-### It focus on the TypeScript
- 
+### It focus on
+* Typescript basic
+
