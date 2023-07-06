@@ -39,8 +39,8 @@ Requirements
 * [4-update_frade_by_city.js](./4-update_frade_by_city.js) 4. Combine 
 * [5-typed_array.js](./5-typed_array.js) 5. Typed Arrays 
 * [6-set.js](./6-set.js) 6. Set data structure 
-* [7-has_array_values.js](./7-has_array_values.js)
-* [8-clean_set.js](./8-clean_set.js)
-* [9-groceries_list.js](./9-groceries_list.js)
-* [10-update_uniq_item.js](./10-update_uniq_item.js)
-* [100-weak.js](./100-weak.js)
+* [7-has_array_values.js](./7-has_array_values.js) 7.More set data structure
+* [8-clean_set.js](./8-clean_set.js) 8. Clean set 
+* [9-groceries_list.js](./9-groceries_list.js) 9. Map data structure 
+* [10-update_uniq_item.js](./10-update_uniq_item.js) 10. More map data structure 
+* [100-weak.js](./100-weak.js) 11. Weak link data structure 
